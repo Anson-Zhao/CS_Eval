@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c70e1475-630f-4f31-b2c1-817f05bcf192" name="evalcs" url="http://localhost:63342/CS_Eval">
+        <fileTransfer host="aworldbridgelabs.com" port="5532" rootFolder="/var/www/evalcs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="5532" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
