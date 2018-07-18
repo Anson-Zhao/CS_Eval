@@ -13,10 +13,10 @@ Copyright 2010-2011 Charlie Lockhart/Blueball Design LLC USA, All Rights Reserve
 
 
 body {
-	margin: 0px auto;
+	margin: 0 auto;
 	margin-top: 20px;
 	padding: 0;
-	background: floralwhite;
+	background: whitesmoke;
 	/*background: #2d2d2d url(qubit_bgtile01.jpg) top left repeat-x;*/
 	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, sans-serif;
 	font-size: 14px;
